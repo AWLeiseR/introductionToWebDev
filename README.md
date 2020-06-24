@@ -19,13 +19,13 @@
 </html>
 ```
 
-* <!DOCTYPE html> - tag utilizada uma vez somente, sempre no início do documento para dizer ao browser que o conteúdo abaixo é um `HTML`.
+* `<!DOCTYPE html>` - Tag utilizada uma vez somente, sempre no início do documento para dizer ao browser que o conteúdo abaixo é um `HTML`.
 
 
-* <html> - tag raiz, dentro dele ou a partir dele serão organizados todas as outras tag.
+* `<html>` - Tag raiz, dentro dele ou a partir dele serão organizados todas as outras tag.
 
-* <head> - tag destinada a abrigar as configurações/informações da página ou documento.
+* `<head>` - Tag destinada a abrigar as configurações/informações da página ou documento.
 
-* <body> - tag que possui todo o conteúdo do documento. IMPORTANTE só é permitido um `<body>` por página.
+* `<body>` - Tag que possui todo o conteúdo do documento. IMPORTANTE só é permitido um `<body>` por página.
 
-* <title> - tag que abriga o nome do documento(página ou aba). Deve ser utilizada somente dentro da tag `<head>`.
+* `<title>` - Tag que abriga o nome do documento(página ou aba). Deve ser utilizada somente dentro da tag `<head>`.
