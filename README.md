@@ -53,7 +53,7 @@
 
 * `<meta>` 
 
-    `charset` - Define o tipo de caracteres usado no documento. O mais comum é o `UTF-8` 
+    `charset` - Define o tipo de caracteres usado no documento. O mais comum é o `UTF-8`.
 
     `name` - Define qual configuração será feita em `content`. No caso de `viewport` define a área de exibição do documento.
 
