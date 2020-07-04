@@ -2,10 +2,10 @@
 
 ## Nesse repositório será abordado conceitos introdutórios de HTML, CSS e Javascript.
 
-* [HTML]()
+* [HTML](https://github.com/AWLeiseR/introductionToWebDev/tree/master/html)
 
 ## Em breve!
 
-* [CSS]()
+* [CSS](https://github.com/AWLeiseR/introductionToWebDev/tree/master/css)
 
-* [Javascript]()
+* [Javascript](https://github.com/AWLeiseR/introductionToWebDev/tree/master/js)
