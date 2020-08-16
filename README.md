@@ -1,6 +1,7 @@
-# Se você quer ser um web Developer está no repositório certo.
+# Se você quer ser um web Developer está no repositório certo. (If you want to be a Web Developer you are in the rigth place.)
 
-## Nesse repositório será abordado conceitos introdutórios de HTML, CSS e Javascript.
+
+## Nesse repositório será abordado conceitos introdutórios de HTML, CSS e Javascript. (In this repo you will see some basics concepts about HMTL, CSS and Javascript.)
 
 * Antes de começarmos a aprender sobre as tecnologias precisamos entender o que cada uma representa e qual sua funação. Para isso imaginemos um corpo humano.(Before we start, we need to define some concepts. For that imagine a human body.)
     
@@ -21,8 +22,16 @@
 
 * [HTML](https://github.com/AWLeiseR/introductionToWebDev/tree/master/html)
 
+<<<<<<< HEAD
 * [Javascript](https://github.com/AWLeiseR/introductionToWebDev/tree/master/js)
+=======
+## Em breve! (Coming soon!)
+>>>>>>> 506dd02ce0fb79f412d5c2ec88a9b21d8e66c047
 
 ## Em breve!
 
+<<<<<<< HEAD
 * [CSS](https://github.com/AWLeiseR/introductionToWebDev/tree/master/css)
+=======
+* [Javascript](https://github.com/AWLeiseR/introductionToWebDev/tree/master/js)
+>>>>>>> 506dd02ce0fb79f412d5c2ec88a9b21d8e66c047
