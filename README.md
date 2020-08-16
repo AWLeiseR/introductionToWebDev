@@ -22,16 +22,8 @@
 
 * [HTML](https://github.com/AWLeiseR/introductionToWebDev/tree/master/html)
 
-<<<<<<< HEAD
 * [Javascript](https://github.com/AWLeiseR/introductionToWebDev/tree/master/js)
-=======
-## Em breve! (Coming soon!)
->>>>>>> 506dd02ce0fb79f412d5c2ec88a9b21d8e66c047
 
 ## Em breve!
 
-<<<<<<< HEAD
 * [CSS](https://github.com/AWLeiseR/introductionToWebDev/tree/master/css)
-=======
-* [Javascript](https://github.com/AWLeiseR/introductionToWebDev/tree/master/js)
->>>>>>> 506dd02ce0fb79f412d5c2ec88a9b21d8e66c047
